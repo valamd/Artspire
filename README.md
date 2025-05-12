@@ -58,8 +58,8 @@ ARTSPIRE_Project_Django/<br>
 ## 🖼️ Screenshots
 
 - 🏠 **Home Page**
-![Screenshot (351)](https://github.com/user-attachments/assets/ea489020-e078-4ab5-8d07-ab896b37ade5)
+![Screenshot (351)](https://github.com/user-attachments/assets/d28bb84d-5b5f-4fb4-8a21-2abbcdb70808)
 
 - 🧑‍💼 **Login Page**
-![Screenshot (352)](https://github.com/user-attachments/assets/fa9ef294-d23a-4305-84ae-b9ecd42e7e3c)
+![Screenshot (352)](https://github.com/user-attachments/assets/d0d87fa2-5067-4b1e-9ad4-603d1b25f32d)
 
